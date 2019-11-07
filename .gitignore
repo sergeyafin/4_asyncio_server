@@ -34,8 +34,6 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-names.txt
-gl_chat.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
